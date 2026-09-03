@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Lenovo\Documents\workspace-spring-tools\bai2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+378540029.index
+824276808.index
+102407068.index
+651134946.index
+4000080244.index
+1126768446.index

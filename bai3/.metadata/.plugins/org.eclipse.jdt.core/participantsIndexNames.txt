@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+C:\Users\Lenovo\Documents\workspace-spring-tools\bai2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\593057004.index
+\bai1\src\main\java
+C:\Users\Lenovo\Documents\workspace-spring-tools\bai2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1550133134.index
+\bai1\src\main\java
+C:\Users\Lenovo\Documents\workspace-spring-tools\bai2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2763626791.index
+\bai1\src\main\java
